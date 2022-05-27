@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "photo gallery database",
   "main": "index.js",
+  "engines": {
+    "node": "6.11.1"
+  },
   "scripts": { 
     "start": "node index.js" 
   },
