@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "photo gallery database",
   "main": "index.js",
-  "scripts": { // <===
-    "start": "node server.js" // <===
+  "scripts": { 
+    "start": "node index.js" 
   },
   "author": "Rajesh Panchal",
   "license": "ISC",
